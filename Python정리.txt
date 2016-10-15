@@ -1,7 +1,0 @@
-2016.10.15~
-파이썬(version-3.5.2)
-https://www.python.org/downloads/
-
-Day 01
-저장시 확장자 .py
-런 F5
