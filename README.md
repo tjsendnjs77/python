@@ -14,3 +14,7 @@ git config --global user.email "tjsendnjs77@naver.com"
 ## Day3
 - 제어문, 함수 복습
 - 제어문, 함수를 이용한 터틀런 Ver.1 개발
+
+## Day4
+- 파이썬 클래스 기본
+- 파이썬 클래스 상속
